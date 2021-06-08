@@ -32,6 +32,7 @@ a {
   margin-top: 20px;
 }
 .picture-of-croissant {
-  max-width: 500px;
-  margin-bottom: 60px;
+  max-width: 100%;
+  margin: 20px auto;
+  border-radius: 10px;
 }
