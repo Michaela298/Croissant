@@ -8,15 +8,26 @@ h1 {
 p {
   text-align: center;
 }
+img {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+}
 .links {
   display: flex;
   justify-content: center;
   justify-content: space-evenly;
   flex: 1;
   text-align: center;
+  margin-top: 20px;
 }
 .link-back-to-homepage {
   display: block;
   text-align: center;
   margin-top: 20px;
+}
+.picture-of-croissant {
+  max-width: 500px;
+  margin-bottom: 60px;
 }
